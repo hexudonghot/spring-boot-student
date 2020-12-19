@@ -1,5 +1,5 @@
 import java.awt.*;
-
+// https://haicoder.net/java/java-paradigm.html
 public class TestQieMian {
     public static void main(String[] args) {
         QieMian<String> point = new QieMian<>();
