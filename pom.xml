@@ -129,6 +129,7 @@
 		<module>spring-boot-student-spring</module>
 		<!-- okhttp  -->
 		<module>spring-boot-student-okhttp</module>
+        <module>spring-boot-fanxing</module>
     </modules>
 
 </project>
