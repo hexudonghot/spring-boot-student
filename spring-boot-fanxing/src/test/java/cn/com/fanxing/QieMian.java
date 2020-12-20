@@ -1,3 +1,5 @@
+package cn.com.fanxing;
+
 public class QieMian<TT> {
     private TT value;
 

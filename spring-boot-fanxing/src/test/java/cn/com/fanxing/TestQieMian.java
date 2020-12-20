@@ -1,4 +1,5 @@
-import java.awt.*;
+package cn.com.fanxing;
+
 // https://haicoder.net/java/java-paradigm.html
 public class TestQieMian {
     public static void main(String[] args) {
